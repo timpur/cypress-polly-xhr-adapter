@@ -1,0 +1,25 @@
+{
+  "name": "cypress-polly-xhr-adapter",
+  "version": "0.1.0",
+  "description": "Adapter for Polly that works with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timpur/cypress-polly-xhr-adapter.git"
+  },
+  "author": "timpur",
+  "license": "file: LICENSE",
+  "bugs": {
+    "url": "https://github.com/timpur/cypress-polly-xhr-adapter/issues"
+  },
+  "homepage": "https://github.com/timpur/cypress-polly-xhr-adapter#readme",
+  "dependencies": {
+    "@pollyjs/adapter": "^1.2.0",
+    "@pollyjs/utils": "^1.2.0",
+    "global": "^4.3.0",
+    "url": "^0.11.0"
+  }
+}
