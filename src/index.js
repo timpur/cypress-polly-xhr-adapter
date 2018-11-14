@@ -1,4 +1,4 @@
-import { XHRMock } from '../xhr-mock/XHRMock'
+import { XHRMock } from './xhr-mock/XHRMock'
 import Adapter from '@pollyjs/adapter'
 import { XHR as XHRUtils } from '@pollyjs/utils'
 
